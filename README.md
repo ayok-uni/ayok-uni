@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayo
 - 👀 I’m interested in Cloud computing 
-- 🌱 I’m currently learning SRE
+- 🌱 I’m currently learning Bash scripting and python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
